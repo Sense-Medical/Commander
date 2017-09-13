@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Spectre",
+        "repositoryURL": "https://github.com/Sense-Medical/Spectre.git",
+        "state": {
+          "branch": "cortex",
+          "revision": "a289d0f6ec93979e6580ead4724f3461e84897e2",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
